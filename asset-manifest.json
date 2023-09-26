@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Reatc-web/static/css/main.7f0992d4.css",
+    "main.js": "/Reatc-web/static/js/main.3229f19d.js",
+    "static/media/about.jpg": "/Reatc-web/static/media/about.bddb750f3959db98d0ff.jpg",
+    "static/media/web-developer.jpg": "/Reatc-web/static/media/web-developer.84437258534c0cde5bc4.jpg",
+    "static/media/IMG-3.jpg": "/Reatc-web/static/media/IMG-3.3439da026f38757b82ec.jpg",
+    "static/media/IMG-20.jpg": "/Reatc-web/static/media/IMG-20.b3c369ef5c233e88055c.jpg",
+    "static/media/IMG-2.jpg": "/Reatc-web/static/media/IMG-2.ff254acd3a2f84cfe8ce.jpg",
+    "static/media/code.png": "/Reatc-web/static/media/code.fdc134ab9d03246820f1.png",
+    "index.html": "/Reatc-web/index.html",
+    "main.7f0992d4.css.map": "/Reatc-web/static/css/main.7f0992d4.css.map",
+    "main.3229f19d.js.map": "/Reatc-web/static/js/main.3229f19d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f0992d4.css",
+    "static/js/main.3229f19d.js"
+  ]
+}
